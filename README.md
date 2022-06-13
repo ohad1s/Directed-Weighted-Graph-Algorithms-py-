@@ -35,17 +35,25 @@ I compared the projects between 4 different graphs with 4 different algorithms (
 
 Graph G1:
 
-image image
+![image](https://user-images.githubusercontent.com/92723105/173436182-f2c898e2-5c27-4e38-8961-43db6bba5c97.png)
+![image](https://user-images.githubusercontent.com/92723105/173436202-c41900d6-6b65-4a30-b7bc-b948daedaaec.png)
+
 
 Graph G2:
 
-image image
+![image](https://user-images.githubusercontent.com/92723105/173436227-2687b36c-1488-496b-b4c5-786a4404ef6b.png)
+![image](https://user-images.githubusercontent.com/92723105/173436252-7840dbdd-1e27-46eb-a00b-94f4fb84af2a.png)
+
 
 Graph G3:
 
-image image
+![image](https://user-images.githubusercontent.com/92723105/173436296-752127b0-6583-4628-a77a-115260aed4b0.png)
+![image](https://user-images.githubusercontent.com/92723105/173436308-bb1d770b-795b-4b84-9df8-e25feb129261.png)
+
 
 Graph 1000Nodes:
 
-image image
+![image](https://user-images.githubusercontent.com/92723105/173436323-15eb010a-a253-4363-8a60-790c204833fd.png)
+![image](https://user-images.githubusercontent.com/92723105/173436338-76b0d4c5-7677-4d6f-9693-c09177c2a3b6.png)
+
 
