@@ -18,3 +18,34 @@ Shortest Path between two vertices - Finding the path and distance using Dijkstr
 Finding the Graph Center - Finding the vertex in the graph, that has the minimal distance to the farthest vertex using Dijkstra's algorithm.
 
 Finding Shortest Path For List of Vertices - Using a greedy algorithm and Dijkstra's algorithm in order to find the shortest path that goes through all the vertices in the list.
+
+**Comparison of runtimes with the Java Project:**
+
+Before I did this project,I have done it in Java.
+
+You can see the Java project here- https://github.com/ohad1s/Ex2_OOP.git
+
+below is the runtime comparison between the 2 projects:
+
+I compared the projects between 4 different graphs with 4 different algorithms (Load, Save, Center, TSP)
+
+(TSP runtime measured on all the vertices of the graph)
+
+(Computer specifications: Lenovo V14-IIL, Intel Core i5-1035G, Windows 10 Pro 64 16GB memory card)
+
+Graph G1:
+
+image image
+
+Graph G2:
+
+image image
+
+Graph G3:
+
+image image
+
+Graph 1000Nodes:
+
+image image
+
