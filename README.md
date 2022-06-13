@@ -19,6 +19,26 @@ Finding the Graph Center - Finding the vertex in the graph, that has the minimal
 
 Finding Shortest Path For List of Vertices - Using a greedy algorithm and Dijkstra's algorithm in order to find the shortest path that goes through all the vertices in the list.
 
+**How To Run The Program:**
+We have two executable files: main.py and drawGraph.py
+
+main.py is a file that has set graphs that it is loading, running algorithms on them and print the results.
+
+In order to run main.py, simply enter the src directory, open cmd through src path and run the following command: python3 main.py
+
+drawGraph.py is a file that take a graph json file as an argument, and print it to the screen. json files of graphs are located in the data directroy.
+
+In order to run drawGraph.py, enter the src directory, open cmd through src path and run the following command: python3 drawGraph.py <grap_json_file>
+
+For both files, the following window should pop up with the relevant graph. Please notice that with the main.py executable, four graph will open one after the other.
+
+![image](https://user-images.githubusercontent.com/92723105/173436463-a1c1e83b-c060-4fb4-8ee6-1d0ad8029df4.png)
+
+**Project UML:**
+
+![image](https://user-images.githubusercontent.com/92723105/173436531-431ebdad-65d8-40c9-9f52-88699bdb344a.png)
+
+
 **Comparison of runtimes with the Java Project:**
 
 Before I did this project,I have done it in Java.
